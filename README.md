@@ -12,8 +12,8 @@ server, and the evaluation harnesses that prove a change made things better.
 |---|---|
 | **[catalogue-rag](https://github.com/samiulhuda360/catalogue-rag)** | A product-knowledge assistant over 54 public door hardware catalogues: hybrid BM25 + embedding retrieval, table-aware chunking, cite-or-decline answers, streaming UI. Measured: 20% → **98% correct**, 100% of unanswerable questions declined, ~2 s per answer. Runs on a self-hosted GPU model too. |
 | *hermes-fleet* (publishing soon) | A fleet of LLM agents that run scheduled business tasks (research, SEO monitoring, job search, reporting) with a FastAPI + React command centre, Telegram delivery and self-checks. In daily use. |
-| [Diagnosing chicken diseases with CNNs](https://github.com/samiulhuda360/Diagnosing-Chicken-Diseases-via-Convolutional-Neural-Networks) | Image classification with convolutional neural networks. |
-| [Flask image Q&A with Docker](https://github.com/samiulhuda360/Flask-Image-Questions-Answers-App-with-Docker) | Upload an image, ask questions about it; containerised Flask app. |
+| *Poultry disease classifier* (being upgraded) | Convolutional neural network that diagnoses chicken diseases from images; being rebuilt with transfer learning and a web demo. |
+| *Image Q&A app* (being upgraded) | Upload an image and ask questions about it; moving to a current vision model, containerised with Docker. |
 
 **What I work with**
 
