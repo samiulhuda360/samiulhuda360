@@ -37,9 +37,18 @@ and I measure the time and money they save.
   - raw data cleaned into tidy reporting tables, with automatic quality and reconciliation checks;
   - a shared set of business metrics, so everyone gets the same numbers;
   - an AI analyst that answers questions from those metrics.
-- **Programmatic SEO and marketing automation.** I ran the automation behind a network of 400+ websites: site
-  creation, tens of thousands of location pages, publishing through APIs, monitoring and reporting. I've also
-  automated lead handling, campaign reporting and customer targeting for marketing agencies.
+- **Programmatic SEO and search data.** I automate SEO end to end:
+  - building pages at scale from data;
+  - local SEO: Google Business data, maps, citations and city pages;
+  - keyword research and search-volume data;
+  - Google Search Console and indexing;
+  - rank and SERP tracking;
+  - competitor and backlink checks;
+  - publishing through APIs.
+
+  For example, I ran the automation behind a network of 400+ websites with tens of thousands of location pages.
+- **Marketing automation.** For marketing agencies I've automated lead handling, campaign reporting, content
+  workflows and customer targeting.
 - **AI products.** I build:
   - assistants that answer from a company's documents and show the source;
   - invoice and lease reading;
