@@ -15,32 +15,44 @@ and I measure the time and money they save.
 - **AI since 2020.** I've worked with AI since OpenAI first opened its API commercially at the end of 2020. Today I
   build AI agents, assistants and automations that businesses use every day.
 
-**What I've done for clients**
+**What I do**
 
-- **Saved agencies money and staff time:** I built automated web apps and scripts that took over reporting,
-  publishing, data collection and day-to-day admin.
-- **Programmatic SEO at scale:** I ran the automation behind a network of 400+ websites. It covered site creation,
-  tens of thousands of location pages, publishing through APIs, monitoring and reporting.
-- **Marketing automation:** lead handling, campaign reporting, content workflows, and customer targeting with
-  machine learning.
-- **Cloud architecture:** hosting and deploying on AWS, DigitalOcean and Linux servers, and designing cloud
-  solutions with cost and data-location rules built in.
+- **Automating people's daily tasks.** I turn the jobs people repeat every day into scripts, web apps and
+  workflows: reports, data entry, emails, publishing, checks and follow-ups. The work gets done on time without
+  anyone doing it by hand.
+- **AI agents with Hermes.** I run a team of AI "employees" built on the Hermes agent framework. Each agent has
+  its own role, skills, memory and schedule, and a chief-assistant agent coordinates them and reports to my phone.
+  They cover research, market watching, lead finding, content planning and job search.
+- **Security and monitoring agents.** Agents watch my servers, websites and code around the clock. They check
+  uptime, failed jobs, backups, exposed keys and code health, and alert me only when something needs a person.
+- **Workflow automation with n8n.** I build n8n workflows that connect business tools: lead intake, invoices to
+  bills, support triage, daily summaries and approvals. AI does the reading and drafting, fixed rules check it,
+  and a person approves.
+- **Server and cloud automation.** I set up and automate Linux servers on AWS, DigitalOcean and Linode:
+  deployments, scheduled jobs, backups, web servers, DNS and Cloudflare. I also design cloud solutions with cost
+  and data-location rules built in, and write infrastructure as code with Terraform and AWS CDK.
+- **CI/CD pipelines.** Every project I ship has GitHub Actions pipelines that test, check and build on every
+  change, so problems are caught before they reach users.
+- **Data warehousing and analytics.** I build data pipelines and warehouses with dbt, DuckDB and PostgreSQL:
+  - raw data cleaned into tidy reporting tables, with automatic quality and reconciliation checks;
+  - a shared set of business metrics, so everyone gets the same numbers;
+  - an AI analyst that answers questions from those metrics.
+- **Programmatic SEO and marketing automation.** I ran the automation behind a network of 400+ websites: site
+  creation, tens of thousands of location pages, publishing through APIs, monitoring and reporting. I've also
+  automated lead handling, campaign reporting and customer targeting for marketing agencies.
+- **AI products.** I build:
+  - assistants that answer from a company's documents and show the source;
+  - invoice and lease reading;
+  - email triage;
+  - computer vision models;
+  - anomaly detection on sensor data.
 
-**What I build with AI**
-
-- **AI "employees":** agents that do research, monitoring and reporting every day, coordinated by a chief
-  assistant.
-- **Document assistants:** they answer from a company's own documents and show where each answer came from.
-- **Paperwork automation:** invoices, leases and emails read and sorted automatically, with a person approving
-  each step.
-- **Workflows:** n8n workflows that connect business tools and cut manual hours.
-- **Data and vision:** computer vision models, anomaly detection on sensor data, and AI analysts over business
-  data.
-
-Every one is tested against real examples before it is trusted, and compared with doing the job by hand.
+Every one is tested against real examples before it is trusted, and compared with doing the job by hand. The
+agencies I've worked with cut costs and staff hours this way.
 
 **Main tools:** Python, JavaScript/TypeScript, Django, FastAPI, React, Node.js · OpenAI, Gemini and Claude APIs,
-agents, MCP · n8n, webhooks, REST APIs · PostgreSQL, MySQL, SQL · AWS, Docker, Linux, Terraform, GitHub Actions
+Hermes agents, MCP · n8n, webhooks, REST APIs · PostgreSQL, MySQL, dbt, DuckDB · AWS, DigitalOcean, Docker, Linux,
+Terraform, GitHub Actions
 
 **See my work:** [all my projects →](https://github.com/samiulhuda360?tab=repositories). Each project opens with a
 plain-language example of the problem it solves.
