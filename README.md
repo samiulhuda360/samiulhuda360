@@ -1,30 +1,37 @@
 ### Samiul Huda
 
-**AI and automation engineer in Auckland, New Zealand · MSc Data Science**
+**AI and automation engineer · Auckland, New Zealand**
+MSc Applied Statistics & Data Science · BSc Electrical & Electronic Engineering
 
-I build AI systems that companies can trust with real work: retrieval-augmented assistants that cite their
-sources and say "I don't know" when they should, multi-agent automation that runs every day on a small
-server, and the evaluation harnesses that prove a change made things better.
+I find the work that eats people's time and replace it with AI and automation, then measure the hours it gives
+back. A person always keeps the final say on anything that matters.
 
-**Featured**
+**What I bring**
 
-| Project | What it shows |
-|---|---|
-| **[catalogue-rag](https://github.com/samiulhuda360/catalogue-rag)** | A product-knowledge assistant over 54 public door hardware catalogues: hybrid BM25 + embedding retrieval, table-aware chunking, cite-or-decline answers, streaming UI. Measured: 20% → **98% correct**, 100% of unanswerable questions declined, ~2 s per answer. Runs on a self-hosted GPU model too. |
-| **[Campaign Copilot](https://github.com/samiulhuda360/marketing-campaign-ai-copilot)** | AI marketing copilot: customer response model (ROC-AUC 0.89, calibrated) with SHAP explanations, a tool-calling LLM analyst agent that writes and runs SQL on DuckDB (12/12 on a gold-SQL eval, also with a free open-weight model), a structured-output campaign planner and an MCP server. |
-| *hermes-fleet* (publishing soon) | A fleet of LLM agents that run scheduled business tasks (research, SEO monitoring, job search, reporting) with a FastAPI + React command centre, Telegram delivery and self-checks. In daily use. |
-| [Poultry disease detection (CNN)](https://github.com/samiulhuda360/Diagnosing-Chicken-Diseases-via-Convolutional-Neural-Networks) | Deep learning image classifier (TensorFlow/Keras) that screens chickens for Coccidiosis and Salmonella: 84.8% accuracy, ROC-AUC up to 0.97. |
-| [Visual question answering API](https://github.com/samiulhuda360/visual-question-answering-api) | Ask questions about an image in plain English: ViLT vision-language transformer served with FastAPI, web UI, Docker image tested in CI. |
+- **From the factory floor to AI.** I spent seven years as an electrical engineer, commissioning power systems and
+  automating chemical dispensing and effluent-treatment dosing. I learned what it takes for a system to keep
+  running when nobody is watching, and I bring that discipline to every AI system I build.
+- **AI that does real work.** I build:
+  - AI "employees" that do daily research, monitoring and reporting;
+  - assistants that answer from a company's own documents and show where each answer came from;
+  - document reading for invoices and leases;
+  - email triage;
+  - n8n workflow automation.
+- **Measured, not guessed.** Every system I build is tested against labelled examples before it is trusted. I
+  compare it with the simple way of doing the job, and report the real numbers, misses included.
+- **Automation at scale.** I built and ran the automation behind a network of 400+ websites: site creation,
+  publishing through APIs, monitoring and reporting.
+- **Data and machine learning.** I've built computer vision models (CNNs and a vision-language model), anomaly
+  detection on sensor and device data, data pipelines with built-in quality checks, and AI analysts that answer
+  business questions from governed data.
+- **Plain communication.** I've trained staff, written operating procedures and supported customers. I explain
+  technical work in everyday words.
 
-**What I work with**
+**Tools I use every day:** Python, TypeScript, SQL · LLM APIs (Gemini, OpenAI-compatible, Claude), agents, MCP,
+retrieval · n8n, webhooks and REST APIs · React, FastAPI, Node.js · PostgreSQL, DuckDB, dbt · Docker, Linux,
+GitHub Actions, AWS, Terraform
 
-- **AI and data:** RAG, LLM agents and tool use, embeddings and vector search (ChromaDB), BM25, evaluation design, prompt engineering, scikit-learn, TensorFlow, pandas
-- **Models:** OpenAI-compatible APIs and OpenRouter, open-weight models (Qwen, Llama), self-hosting with vLLM or Ollama
-- **Backend:** Python, FastAPI, Flask, Django, SQLite, REST and server-sent events
-- **Frontend:** React, TypeScript, Vite, plain JavaScript and Canvas
-- **Ops:** Linux servers, Docker, nginx, systemd, cron, GitHub Actions, pytest
+**See my work:** [all my projects →](https://github.com/samiulhuda360?tab=repositories). Each project opens with a
+plain-language example of the problem it solves, followed by the technical detail and its measured results.
 
-**Approach:** measure before and after, keep a human in the loop where mistakes are costly, and prefer a
-boring dependable system over a clever fragile one.
-
-📫 Open to AI, automation and data roles in Auckland.
+Open to AI, automation and data roles in New Zealand · samidurbar@gmail.com
