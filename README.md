@@ -6,14 +6,25 @@ MSc Applied Statistics & Data Science · BSc Electrical & Electronic Engineering
 I help businesses do more with fewer hours. I build web apps, automation and AI that take over repetitive work,
 and I measure the time and money they save.
 
+**Featured projects.** Every one has a plain-language guide, a demo and a measured result you can re-run.
+
+| Project | What it does | Result |
+|---|---|---|
+| [catalogue-rag](https://github.com/samiulhuda360/catalogue-rag) | Answers product questions from PDF catalogues and shows the page it used | 98% of answerable test questions correct |
+| [property-ops-ai](https://github.com/samiulhuda360/property-ops-ai) | Takes rental back-office work off a small team: invoices, leases, rent matching, tenant email | 82% of bank lines matched on its own |
+| [retail-data-ai](https://github.com/samiulhuda360/retail-data-ai) | Turns messy sales data into trusted numbers, with an AI analyst that answers from them | 40 of 40 metric questions right |
+| [depgate](https://github.com/samiulhuda360/depgate) | Merges safe library updates by itself and holds the risky ones for a person | 0 wrong merges on 199 real updates |
+| [n8n-nodes-jev](https://github.com/samiulhuda360/n8n-nodes-jev) | Lets an n8n workflow act only when the AI is sure, and asks a person otherwise | 97.5% right on the emails it handled alone |
+| [plant-ai](https://github.com/samiulhuda360/plant-ai) | Brings AI to chemical dosing and effluent plants, built on my factory engineering work | 20% less dosing chemical, discharge always within limits |
+
 **My path**
 
 - **Factory electrical engineer.** I commissioned power systems and automated chemical dispensing and
   effluent-treatment dosing. That taught me to build systems that keep running when nobody is watching.
 - **Software developer.** I specialise in Python, JavaScript and Django, and I build web apps and automation
   scripts that replace manual work.
-- **AI since 2020.** I've worked with AI since OpenAI first opened its API commercially at the end of 2020. Today I
-  build AI agents, assistants and automations that businesses use every day.
+- **AI since 2020.** I've built with large language models since OpenAI's API first opened to developers in 2020.
+  Today I build AI agents, assistants and automations that businesses use every day.
 
 **What I do**
 
