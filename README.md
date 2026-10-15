@@ -16,6 +16,7 @@ and I measure the time and money they save.
 | [depgate](https://github.com/samiulhuda360/depgate) | Merges safe library updates by itself and holds the risky ones for a person | 0 wrong merges on 199 real updates |
 | [n8n-nodes-jev](https://github.com/samiulhuda360/n8n-nodes-jev) | Lets an n8n workflow act only when the AI is sure, and asks a person otherwise | 97.5% right on the emails it handled alone |
 | [plant-ai](https://github.com/samiulhuda360/plant-ai) | Brings AI to chemical dosing and effluent plants, built on my factory engineering work | 20% less dosing chemical, discharge always within limits |
+| [cloud-architect-agent](https://github.com/samiulhuda360/cloud-architect-agent) · **[live demo](https://cloud.188-245-30-93.sslip.io)** | Designs an Azure system for any country from a plain description and your company's policies, priced live in your currency | Every design checked against the rules; 20 of 20 test scenarios |
 
 **My path**
 
