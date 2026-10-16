@@ -75,6 +75,13 @@ agencies I've worked with cut costs and staff hours this way.
 Hermes agents, MCP · n8n, webhooks, REST APIs · PostgreSQL, MySQL, dbt, DuckDB · AWS, DigitalOcean, Docker, Linux,
 Terraform, GitHub Actions
 
+**What I'm working on now**
+
+- **Azure, hands-on, towards the AZ-900 certificate.** Each week I build one setup by hand, rewrite it in Terraform,
+  then tear it down.
+- **decision-distiller.** It learns an app's routine AI decisions from its logs and moves the confident ones to a
+  small model that runs for free, so only the hard cases go to the big, expensive model.
+
 **See my work:** [all my projects →](https://github.com/samiulhuda360?tab=repositories). Each project opens with a
 plain-language example of the problem it solves.
 
