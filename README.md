@@ -11,7 +11,9 @@ and I measure the time and money they save.
 | Project | What it does | Result |
 |---|---|---|
 | [catalogue-rag](https://github.com/samiulhuda360/catalogue-rag) | Answers product questions from PDF catalogues and shows the page it used | 98% of answerable test questions correct |
-| [property-ops-ai](https://github.com/samiulhuda360/property-ops-ai) | Takes rental back-office work off a small team: invoices, leases, rent matching, tenant email | 82% of bank lines matched on its own |
+| [property-ops-ai](https://github.com/samiulhuda360/property-ops-ai) · **[live demo](https://property.188-245-30-93.sslip.io)** | Takes rental back-office work off a small team: invoices, leases, rent matching, tenant email | 82% of bank lines matched on its own |
+| [automation-finder](https://github.com/samiulhuda360/automation-finder) · **[live demo](https://autofinder.188-245-30-93.sslip.io)** | Finds the repeated work in a business from its emails, tickets and calendar, ranks it by hours and drafts an automation for each | Found all 8 planted time-wasters; keyword counting found 12% |
+| [company-brain](https://github.com/samiulhuda360/company-brain) · **[live demo](https://brain.188-245-30-93.sslip.io)** | Answers questions that span customer lists, orders, tickets and policies, with a source for every fact | 95% of test questions right, 97% with sources |
 | [retail-data-ai](https://github.com/samiulhuda360/retail-data-ai) | Turns messy sales data into trusted numbers, with an AI analyst that answers from them | 40 of 40 metric questions right |
 | [depgate](https://github.com/samiulhuda360/depgate) | Merges safe library updates by itself and holds the risky ones for a person | 0 wrong merges on 199 real updates |
 | [n8n-nodes-jev](https://github.com/samiulhuda360/n8n-nodes-jev) | Lets an n8n workflow act only when the AI is sure, and asks a person otherwise | 97.5% right on the emails it handled alone |
