@@ -8,10 +8,12 @@ and I measure the time and money they save.
 
 **Featured projects.** Every one has a plain-language guide, a demo and a measured result you can re-run.
 
+**Try four of them live, no sign-in needed: [demos.188-245-30-93.sslip.io](https://demos.188-245-30-93.sslip.io)**, with a plain-words guide to how each one works.
+
 | Project | What it does | Result |
 |---|---|---|
 | [catalogue-rag](https://github.com/samiulhuda360/catalogue-rag) | Answers product questions from PDF catalogues and shows the page it used | 98% of answerable test questions correct |
-| [property-ops-ai](https://github.com/samiulhuda360/property-ops-ai) · **[live demo](https://property.188-245-30-93.sslip.io)** | Takes rental back-office work off a small team: invoices, leases, rent matching, tenant email | 82% of bank lines matched on its own |
+| [property-ops-ai](https://github.com/samiulhuda360/property-ops-ai) · **[live demo](https://property.188-245-30-93.sslip.io/demo.html)** | Takes rental back-office work off a small team: invoices, leases, rent matching, tenant email | 82% of bank lines matched on its own |
 | [automation-finder](https://github.com/samiulhuda360/automation-finder) · **[live demo](https://autofinder.188-245-30-93.sslip.io)** | Finds the repeated work in a business from its emails, tickets and calendar, ranks it by hours and drafts an automation for each | Found all 8 planted time-wasters; keyword counting found 12% |
 | [company-brain](https://github.com/samiulhuda360/company-brain) · **[live demo](https://brain.188-245-30-93.sslip.io)** | Answers questions that span customer lists, orders, tickets and policies, with a source for every fact | 95% of test questions right, 97% with sources |
 | [retail-data-ai](https://github.com/samiulhuda360/retail-data-ai) | Turns messy sales data into trusted numbers, with an AI analyst that answers from them | 40 of 40 metric questions right |
