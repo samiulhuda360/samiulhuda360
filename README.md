@@ -8,7 +8,7 @@ and I measure the time and money they save.
 
 **Featured projects.** Every one has a plain-language guide, a demo and a measured result you can re-run.
 
-**Try four of them live, no sign-in needed: [demos.188-245-30-93.sslip.io](https://demos.188-245-30-93.sslip.io)**, with a plain-words guide to how each one works.
+**Portfolio and live demos: [samiul.188-245-30-93.sslip.io](https://samiul.188-245-30-93.sslip.io)**. Four projects run live with sample data, no sign-in needed, each with a plain-words guide to how it works.
 
 | Project | What it does | Result |
 |---|---|---|
